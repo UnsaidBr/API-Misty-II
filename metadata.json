@@ -1,0 +1,8 @@
+{
+  "name": "MistyForge Studio & API",
+  "description": "Plataforma avançada de API REST/WebSocket, Gêmeo Digital interativo, Coreografia e Automação para robôs Misty II.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
